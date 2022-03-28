@@ -3,3 +3,39 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+header nav a {
+  color: rgb(76, 0, 255);
+  padding-left: 10px;
+  padding-right: 10px;
+  align-items: center;
+  background: rgb(179, 218, 233);
+}
+
+figcaption {
+  font-size: smaller;
+  text-align: center;
+}
+
+section#featured-property {
+  width:800px;
+  text-align: center;
+  margin: auto;
+}
+
+
+
+section#details {
+  text-align: center;
+}
+
+/* Clean up divs at the bottom of the page, all of them should have the same background color, centered text, and occupy 25% of width of bottom row.)
+div {
+  background: red;
+  
+}
+
